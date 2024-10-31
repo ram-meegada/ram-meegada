@@ -1,3 +1,4 @@
+![logo](https://github.com/ram-meegada/ram-meegada/blob/main/Black%20Modern%20Personal%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ram</h1>
 <h3 align="center">Iam Backend Developer specializing in Python, Django, and REST APIs.</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2Cls8fzZ1dP74SwPkZwDii1056mfRHMRLoQ&s">
